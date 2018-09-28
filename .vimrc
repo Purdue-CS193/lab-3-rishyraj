@@ -1,4 +1,4 @@
-﻿set number 
- set tabstop=4 
- set incsearch 
- set hlsearch
+set number 
+set tabstop=4 
+set incsearch 
+set hlsearch
